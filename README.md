@@ -14,6 +14,7 @@ Serviços: Cards interativos para Consultoria em RH, Gestão de Talentos, Recrut
 Contato: Formulário simples, telefone/WhatsApp integrado e horários de atendimento.
 Design: Responsivo (mobile-first), com animações sutis, paleta azul/cinza e navegação intuitiva.
 Otimização: SEO básico, acessível e pronto para hospedagem (ex: GitHub Pages, Netlify).
+
 🛠️ Tecnologias Utilizadas
 Frontend: HTML5, CSS3 (Flexbox/Grid) e JavaScript Vanilla (sem frameworks pesados).
 Bibliotecas: Google Fonts (Roboto) e ícones SVG inline (sem dependências externas).
@@ -22,6 +23,7 @@ Ferramentas: Otimizado para VS Code + Live Server.
 📱 Responsividade
 Desktop: Layout completo com grids.
 Tablet/Mobile: Menu hamburger, cards empilhados e botões otimizados.
+
 🤝 Contribuições
 Sinta-se à vontade para abrir issues ou pull requests! Sugestões de melhorias (ex: integração com backend para formulário) são bem-vindas.
 
